@@ -1,3 +1,3 @@
 <?php
 	
-	`ls -al`;
+	`gitt pull`;
